@@ -1,3 +1,8 @@
+# issues
+# concat is out of order, solution to this is generate txt file in order or figure out filter complex
+# need to isolate words better or choose best
+# cleanup
+
 import whisper_timestamped as whisper
 import ffmpeg
 import re
